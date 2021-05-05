@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+ <p align="center"><h2 align="center">Hi Everyone 👋</h2></p>
+ <p align="center">My name is <b>Sutejo</b>! I am interested in making things and trying new things</p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pakdetejo&theme=dark&show_icons=true" alt="GitHub Readme Stats" /></p>
+ <p align="center">© 2021</p>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=antonkomarev&color=lightgrey" alt="jokopratama" /></p>
+
+
+
+<!--### Hi there 👋 -->
 
 <!--
 **pakdetejo/pakdetejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
